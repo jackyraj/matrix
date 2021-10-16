@@ -24,5 +24,6 @@
 ## Tech Stack:
 ### Front End:
 Java(Androd Studio).
+
 ###Back-End:
 Firebase/Firestore.
