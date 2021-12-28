@@ -30,3 +30,5 @@ Java(Androd Studio).
 
 ### Back End:
 Firebase/Firestore.
+SQLite.
+API Calls.
